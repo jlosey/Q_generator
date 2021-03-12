@@ -17,7 +17,7 @@ import os
 import time
 from scipy import linalg
 from random import *
-from constants import *
+from custom_constants import *
 
 
 

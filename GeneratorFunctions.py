@@ -32,7 +32,7 @@ from qpsolvers import solve_qp
 
 
 from helperFunctions import *
-from constants import *
+from custom_constants import *
 
 #Defined for i->j
 def diagonalAdjustment(matrix, tau=1, k=0, epsilon=0.001, maxIterations=20):
